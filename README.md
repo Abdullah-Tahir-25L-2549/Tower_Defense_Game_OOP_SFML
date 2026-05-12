@@ -3,7 +3,6 @@ Modern Tower Defense game built with C++ and SFML. Includes 5 tower types, 5 ene
 
 A complete Tower Defense game developed in **C++** using **SFML** and **Object-Oriented Programming (OOP)** concepts.
 
----
 
 # Features
 
