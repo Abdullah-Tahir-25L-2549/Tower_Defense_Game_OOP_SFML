@@ -91,11 +91,7 @@ WaveManager.cpp -> wave handling
 
 ---
 
-# Screenshots
 
-Add your gameplay screenshots here.
-
----
 
 # Author
 
